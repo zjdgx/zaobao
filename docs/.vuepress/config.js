@@ -10,7 +10,7 @@ module.exports = {
       { rel: "alternate", type: "application/rss+xml", href: "/rss.xml", title: "每日时报" },
     ],
   ],
-  ga: "UA-131469836-1",
+  // ga: "UA-131469836-1",
   plugins: [
     ["@vuepress/google-analytics"],
     [
